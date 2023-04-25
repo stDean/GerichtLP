@@ -1,7 +1,7 @@
 import { NavBar } from './components';
 import {
-  About, Chef, FindUs, Gallery, Header,
-  Intro, Laurels, Menu
+  About, Chef, FindUs, Footer, Gallery,
+  Header, Intro, Laurels, Menu
 } from './container';
 
 import './App.css';
@@ -18,6 +18,7 @@ function App() {
       <Laurels />
       <Gallery />
       <FindUs />
+      <Footer />
     </>
   );
 }
