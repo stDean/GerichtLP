@@ -59,10 +59,10 @@ html::-webkit-scrollbar-thumb {
   margin-left: 2rem;
 }
 
-/* .app__wrapper_img-reverse {
+.app__wrapper_img-reverse {
   justify-content: flex-start;
   margin-right: 2rem;
-} */
+}
 
 .app__wrapper_img img {
   width: 80%;
@@ -143,9 +143,9 @@ html::-webkit-scrollbar-thumb {
     margin: 5rem 0 0 0;
   }
 
-  /* .app__wrapper_img-reverse {
+  .app__wrapper_img-reverse {
     margin: 0 0 5rem 0;
-  } */
+  }
 
   .app__wrapper_img img {
     width: 100%;
